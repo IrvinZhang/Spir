@@ -1,0 +1,5 @@
+.idea
+application/vendor
+application/.htaccess
+application/composer.lock
+system/.htaccess

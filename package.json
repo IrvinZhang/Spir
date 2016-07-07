@@ -1,0 +1,14 @@
+{
+  "name": "spir",
+  "version": "1.0.0",
+  "description": "PHP7.0+fisp+smarty整合框架",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irvin",
+  "license": "ISC"
+}
