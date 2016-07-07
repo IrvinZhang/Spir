@@ -50,12 +50,11 @@ fis.match('*', {
         to: '/var/www/html/www.spir.com/'
     })
 });
-//模板
 fis.match('*.tpl', {
-    deploy: fis.plugin('local-deliver', {
-        to: '/var/www/html/www.spir.com/' // to = $to + $file.release
-    })
+    // 设置 release 为 FALSE，不再产出此文件
+    release: false
 });
+
 //map.json
 fis.match('*-map.json', {
     deploy: fis.plugin('local-deliver', {
