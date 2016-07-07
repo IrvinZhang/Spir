@@ -44,6 +44,7 @@
 11. `$ composer update -vvv
 12. 配置web服务器与本地hosts文件，解析该目录（若没修改，则为：“/var/www/html/www.spir.com/”）
 13. 访问站点测试是否成功
+14. 如果出现template_c没有写权限,可以使用:`chmod -R 0777 /var/www/html/www.spir.com/application/views/templates_c/` (若上面修改过部署目录,这里也要做更改)
 ```
 
 ##有问题反馈
