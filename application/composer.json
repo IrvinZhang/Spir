@@ -8,6 +8,7 @@
         }
     ],
     "require": {
+        "anlutro/curl": "^1.4"
     },
     "repositories": {
         "packagist": {
