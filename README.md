@@ -6,7 +6,7 @@
 * [FIS3](http://fis.baidu.com/)
 
 ##Spir架构图：
-![spir](http://7xnomm.com1.z0.glb.clouddn.com/Spir.png)
+![spir](http://7xnomm.com1.z0.glb.clouddn.com/Spir%E6%9E%B6%E6%9E%84.png)
 ##Spir有哪些功能？
 
 * Spir采用`MVCS`的模式：
